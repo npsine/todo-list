@@ -256,4 +256,4 @@ export default App;
 ## Test result
 - Implement test with jest
 
-![Test result](https://i.imgur.com/TdGyZBt.png)
+![Test result](https://i.imgur.com/LNrjrfo.png)
